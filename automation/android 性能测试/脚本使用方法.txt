@@ -1,0 +1,3 @@
+python：python+脚本+包名
+java：CPU ：java -jar 工具的绝对路径 包名 CPU 
+      内存：java -jar 工具的绝对路径 包名 RAM
